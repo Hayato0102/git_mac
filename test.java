@@ -4,7 +4,7 @@ public class test{
 		greet();
 	}
 
-	public static greet(){
+	public static void greet(){
 		System.out.println("Hello from the local branch!")
 	}
 }
